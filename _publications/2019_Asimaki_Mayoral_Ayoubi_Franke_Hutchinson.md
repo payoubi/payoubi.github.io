@@ -5,7 +5,7 @@ excerpt: ''
 date: 2019-06-17
 venue: 'Geo-Congress, March 24-27, 2019, Philadelphia, Pennsylvania, USA.'
 ---
-Seismic risk in Mexico City governed by site effects. The M8.1 1985 subduction zone
+<div style="text-align: justify"> Seismic risk in Mexico City governed by site effects. The M8.1 1985 subduction zone
 earthquake, which caused significant damage and loss of thousands of lives at 350km epicentral
 distance, has become the quintessential example of the role that site effects can play in
 modifying the amplitude, frequency and duration of ground shaking; and in aggravating the
@@ -22,7 +22,9 @@ in the basin over the past 20 years, and we highlight the importance of understa
 between the deep basin edge and the shallow clay ‘energy trap’ that gives-- and will continue to
 give rise to fascinating wave propagation phenomena. Results presented are the collective effort
 of the GEER teams that were deployed to perform post-earthquake reconnaissance in the
-affected regions of the epicentral area and in Mexico City.
+affected regions of the epicentral area and in Mexico City.</div>
+
+[Download paper here](https://ascelibrary.org/doi/abs/10.1061/9780784482100.043)
 
 
 Recommended citation: Asimaki, D., Mayoral, J., **Ayoubi, P**., Franke, K., Hutchinson ,T. (2019). &quot;Mexico  City  Basin Effects:  Past, Present and Future.&quot; <i>Geo-Congress, March 24-27, 2019, Philadelphia, Pennsylvania, USA.</i>

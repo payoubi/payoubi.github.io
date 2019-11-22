@@ -6,6 +6,11 @@
   {% assign teaser = site.teaser %}
 {% endif %}
 
+{% if post.subcollection == 'journal' %}
+   <p><i>Journal Articles</i>
+{% if post.subcollection == 'conference' %}
+   <p><i>Peer-Review Conference Articles</i>
+
 {% if post.id %}
   {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
 {% else %}

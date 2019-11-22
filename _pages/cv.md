@@ -34,7 +34,7 @@ Skills
   * Python (level of proficiency: Superior)
   * MATLAB (level of proficiency: Superior)
   * C++ (level of proficiency: Intermediate)
-  * C++ (level of proficiency: Intermediate)
+  * FORTRAN (level of proficiency: Intermediate)
 * Additional Tools
   * Autocad (level of proficiency: Intermediate)
   * Latex (level of proficiency: Superior)

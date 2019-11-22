@@ -9,4 +9,4 @@ venue: 'Under review in Soil Dynamics and Earthquake Engineering'
 <br/>
 Recommended citation: **Ayoubi, P**., Mohammadi, Kami., Asimaki, D. (2019). &quot;A Systematic Analysis of Basin Effects on Surface Ground Motion.&quot; <i> Under Review in Soil Dynamics and Earthquake Engineering</i>
 
-Note: This article is under review. Please come back later. 
+Note: This article is under review. Please check later. 

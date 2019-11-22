@@ -20,5 +20,5 @@ foundations on liquefiable soil</div>
 <br/>
 Recommended citation: Kazemi, A., Shahir, H., **Ayoubi, P**. (2019). &quot;Simple Equations for Estimating Bearing Capacity of Shallow Foundations on Liquefiable Soil.&quot; <i>Under Review in Journal of Earthquake Engineering.</i>
 
-Note: This article is under review. Please come back later. 
+Note: This article is under review. Please check later. 
 

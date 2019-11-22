@@ -36,4 +36,4 @@ infrastructure networks.</div>
 Recommended citation: Asimaki, D., Mohammadi, K., **Ayoubi, P**., Mayoral, J., & Montalva, G. (2019). &quot;Investigating the Spatial Variability of Ground Motions During the 2017 Mw 7.1 Puebla-Mexico City Earthquake via Idealized Simulations of Basin Effects.&quot; <i>Accepted in Soil Dynamic and Earthquake Engineering.</i>
 <br/>
 
-Note: This article is accepted but not published yet. Please come back later. 
+Note: This article is accepted but not published yet. Please check later. 

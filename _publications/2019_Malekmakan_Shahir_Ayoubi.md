@@ -20,5 +20,5 @@ ground.</div>
 <br/>
 Recommended citation: Malekmakan, M., Shahir, H., **Ayoubi, P**. (2019). &quot;Investigation of liquefaction-induced lateral spreading of gently sloping grounds using a variable permeability model.&quot; <i> Under Review in  International Journal of Numerical and Analytical Methods in Geomechanics.</i>
 
-Note: This article is under review. Please come back later. 
+Note: This article is under review. Please check later. 
 

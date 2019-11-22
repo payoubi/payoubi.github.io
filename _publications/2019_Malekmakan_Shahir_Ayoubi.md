@@ -18,7 +18,7 @@ calibrated model, a comprehensive parametric study is conducted and the results 
 develop a practical correlation to estimate lateral displacement of a liquefied gently sloped
 ground.
 
-Malekmakan, M., Shahir, H., <b>Ayoubi, P<b>. (2019). &quot;Investigation of liquefaction-induced lateral spreading of gently sloping grounds using a variable permeability model.&quot; <i> Under Review in  International Journal of Numerical and Analytical Methods in Geomechanics.</i>
+Recommended citation: Malekmakan, M., Shahir, H., <b>Ayoubi, P<b>. (2019). &quot;Investigation of liquefaction-induced lateral spreading of gently sloping grounds using a variable permeability model.&quot; <i> Under Review in  International Journal of Numerical and Analytical Methods in Geomechanics.</i>
 
 Note: This article is under review. Please come back later. 
 

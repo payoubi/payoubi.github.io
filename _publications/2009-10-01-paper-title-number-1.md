@@ -1,7 +1,7 @@
 ---
 title: "A Systematic Analysis of Basin Effects on Surface Ground Motion"
 collection: publications
-subcollection: Under Review
+excerpt: ''
 date: 2019-12-01
 venue: 'Under review in Soil Dynamics and Earthquake Engineering'
 ---

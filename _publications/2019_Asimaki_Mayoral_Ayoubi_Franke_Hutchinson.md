@@ -3,7 +3,7 @@ title: "Mexico  City  Basin Effects:  Past, Present and Future"
 collection: publications
 excerpt: ''
 date: 2019-06-17
-venue: '7th International Conference on Earthquake Geotechnical Engineering'
+venue: 'Geo-Congress, March 24-27, 2019, Philadelphia, Pennsylvania, USA.'
 ---
 Seismic risk in Mexico City governed by site effects. The M8.1 1985 subduction zone
 earthquake, which caused significant damage and loss of thousands of lives at 350km epicentral

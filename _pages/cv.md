@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Civil Engineering, Guilan University, 2012
+* M.S. in Geotechnical Engineering, Sharif University of Technology, 2014
+* M.S. in Applied Mechanics, California Institute of Technology, 2017
+* Ph.D in Civil Engineering, California Institute of Technology, 2020 (expected)
 
 Work experience
 ======

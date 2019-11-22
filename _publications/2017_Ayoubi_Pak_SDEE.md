@@ -1,5 +1,5 @@
 ---
-title: "Liquefaction-induced settlement of shallow foundations on two-layered subsoil strata"
+title: "Liquefaction-Induced Settlement of Shallow Foundations on Two-Layered Subsoil Strata"
 collection: publications
 excerpt: ''
 date: 2017-03-01

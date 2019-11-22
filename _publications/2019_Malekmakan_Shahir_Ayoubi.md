@@ -1,5 +1,5 @@
 ---
-title: "Investigation of liquefaction-induced lateral spreading of gently sloping grounds using a variable permeability model"
+title: "Investigation of Liquefaction-Induced Lateral Spreading of Gently Sloping Grounds Using a Variable Permeability Model"
 collection: publications
 excerpt: ''
 date: 2019-01-01

@@ -15,6 +15,7 @@ Education
 * M.S. in Applied Mechanics, California Institute of Technology, 2017
 * M.S. in Geotechnical Engineering, Sharif University of Technology, 2014
 * B.S. in Civil Engineering, Guilan University, 2012
+
 Publications
 ======
   <ul>{% for post in site.publications %}

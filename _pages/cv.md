@@ -36,7 +36,7 @@ Skills
   * MATLAB (level of proficiency: Superior)
   * C++ (level of proficiency: Intermediate)
   * C++ (level of proficiency: Intermediate)
-* Tolls
+* Additional Tools
   * Autocad (level of proficiency: Intermediate)
   * Latex (level of proficiency: Superior)
 

@@ -40,13 +40,6 @@ Skills
   * Autocad (level of proficiency: Intermediate)
   * Latex (level of proficiency: Superior)
 
-Projects
-======
-  <ul>{% for post in site.projects %}
-    {% include archive-single-projects-cv.html %}
-  {% endfor %}</ul>
-
-
 Talks and Poster Presentations
 ======
   <ul>{% for post in site.talks %}

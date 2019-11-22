@@ -16,45 +16,46 @@ Education
 * M.S. in Applied Mechanics, California Institute of Technology, 2017
 * Ph.D in Civil Engineering, California Institute of Technology, 2020 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Skills
+======
+* Modeling and Analysis
+  * OpenSees (level of proficiency: Superior)
+  * FLAC2D (level of proficiency: Advanced)
+  * SPECFEM3D (level of proficiency: Superior)
+  * SPEED (level of proficiency: Superior)
+  * SeimoV-LAB (level of proficiency: Superior)
+
+* Coding
+  * Python (level of proficiency: Superior)
+  * MATLAB (level of proficiency: Superior)
+  * C++ (level of proficiency: Intermediate)
+  * C++ (level of proficiency: Intermediate)
+* Tolls
+  * Autocad (level of proficiency: Intermediate)
+  * Latex (level of proficiency: Superior)
+
+Projects
+======
+  <ul>{% for post in site.projects %}
+    {% include archive-single-projects-cv.html %}
+  {% endfor %}</ul>
+
+
+Talks and Poster Presentations
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+ 
+Memberships
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* American Society of Civil Engineering (ASCE)
+* Seismological Society of America (SSA)
+* American Geophysical Union (AGU)

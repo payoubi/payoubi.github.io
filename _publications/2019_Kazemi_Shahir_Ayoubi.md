@@ -2,10 +2,10 @@
 title: "Simple Equations for Estimating Bearing Capacity of Shallow Foundations on Liquefiable Soil"
 collection: publications
 excerpt: ''
-date: 2019-01-01
+date: 2019-12-01
 venue: 'Under review in Journal of Earthquake Engineering'
 ---
-Assessment of bearing capacity of shallow foundations is an important task in engineering practice
+<div style="text-align: justify"> Assessment of bearing capacity of shallow foundations is an important task in engineering practice
 especially when the foundation is located at the top of a liquefiable soil. In this paper, simple
 analytical equations have been proposed for calculation of the bearing capacity of shallow
 foundations on liquefiable soil. The equations have been developed for two cases, separated based
@@ -16,7 +16,8 @@ simulations, and easy to use design charts and simple equations have been derive
 engineering practice. It is shown that the proposed approach is capable of estimating bearing
 capacity of shallow foundation on liquefiable soil. The obtained results reveal that decreasing the
 depth of liquefiable layer as well as increasing foundation width leads to higher bearing capacity of
-foundations on liquefiable soil
+foundations on liquefiable soil</div>
+<br/>
 
 Recommended citation: Kazemi, A., Shahir, H., **Ayoubi, P**. (2019). &quot;Simple Equations for Estimating Bearing Capacity of Shallow Foundations on Liquefiable Soil.&quot; <i>Under Review in Journal of Earthquake Engineering.</i>
 

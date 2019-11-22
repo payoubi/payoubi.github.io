@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "Stochastic Analysis of Earth's Heterogenity in a Basin Setting"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: projects
 ---

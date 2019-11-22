@@ -5,10 +5,7 @@
 {% else %}
   {% assign teaser = site.teaser %}
 {% endif %}
-{% if post.collection == 'publications' and post.subcollection == 'journal' %}
-  {%  <i>Journal Article<i> | markdownify | remove: "<p>" | remove: "</p>" %}
-{% if post.collection == 'publications' and post.subcollection == 'conference' %}
-  {% <i>Peer-Review Conference Article<i> | markdownify | remove: "<p>" | remove: "</p>" %}
+
 {% if post.id %}
   {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
 {% else %}

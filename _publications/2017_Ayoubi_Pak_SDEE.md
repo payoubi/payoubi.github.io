@@ -9,4 +9,4 @@ Geotechnical design codes have been shifted from classical limit equilibrium ana
 
 [Download paper here](https://www.researchgate.net/profile/Peyman_Ayoubi2/publication/312211406_Liquefaction-induced_settlement_of_shallow_foundations_on_two-layered_subsoil_strata/links/5c1346c2a6fdcc494ff28e5f/Liquefaction-induced-settlement-of-shallow-foundations-on-two-layered-subsoil-strata.pdf)
 
-Recommended citation: <b>Ayoubi, P</b>., Pak, A. (2017). &quot;Liquefaction-induced settlement of shallow foundations on two-layered subsoil strata.&quot; <i>Soil Dynamics and Earthquake Engineering, 94, 35-46.</i>
+Recommended citation: **Ayoubi, P**., Pak, A. (2017). &quot;Liquefaction-induced settlement of shallow foundations on two-layered subsoil strata.&quot; <i>Soil Dynamics and Earthquake Engineering, 94, 35-46.</i>

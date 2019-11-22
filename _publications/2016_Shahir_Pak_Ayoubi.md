@@ -9,4 +9,4 @@ In performance-based geotechnical earthquake engineering, the required degree an
 
 [Download paper here](https://www.researchgate.net/profile/Peyman_Ayoubi2/publication/309569750_A_performance-based_approach_for_design_of_ground_densification_to_mitigate_liquefaction/links/5a330165458515afb6758180/A-performance-based-approach-for-design-of-ground-densification-to-mitigate-liquefaction.pdf)
 
-Recommended citation: Shahir, H., Pak, A., <b>Ayoubi, P</b>. (2016). &quot;A Performance-Based Approach for Design of Ground Densification to Mitigate Liquefaction.&quot; <i>Soil Dynamics and Earthquake Engineering, 90, 381-394.</i>
+Recommended citation: Shahir, H., Pak, A., **Ayoubi, P**. (2016). &quot;A Performance-Based Approach for Design of Ground Densification to Mitigate Liquefaction.&quot; <i>Soil Dynamics and Earthquake Engineering, 90, 381-394.</i>

@@ -18,7 +18,6 @@ capacity of shallow foundation on liquefiable soil. The obtained results reveal 
 depth of liquefiable layer as well as increasing foundation width leads to higher bearing capacity of
 foundations on liquefiable soil</div>
 <br/>
-
 Recommended citation: Kazemi, A., Shahir, H., **Ayoubi, P**. (2019). &quot;Simple Equations for Estimating Bearing Capacity of Shallow Foundations on Liquefiable Soil.&quot; <i>Under Review in Journal of Earthquake Engineering.</i>
 
 Note: This article is under review. Please come back later. 

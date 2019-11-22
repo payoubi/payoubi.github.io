@@ -23,10 +23,9 @@ between the deep basin edge and the shallow clay ‘energy trap’ that gives-- 
 give rise to fascinating wave propagation phenomena. Results presented are the collective effort
 of the GEER teams that were deployed to perform post-earthquake reconnaissance in the
 affected regions of the epicentral area and in Mexico City.</div>
-
+<br/>
 [Download paper here](https://ascelibrary.org/doi/abs/10.1061/9780784482100.043)
-
-
+<br/>
 Recommended citation: Asimaki, D., Mayoral, J., **Ayoubi, P**., Franke, K., Hutchinson ,T. (2019). &quot;Mexico  City  Basin Effects:  Past, Present and Future.&quot; <i>Geo-Congress, March 24-27, 2019, Philadelphia, Pennsylvania, USA.</i>
 
 

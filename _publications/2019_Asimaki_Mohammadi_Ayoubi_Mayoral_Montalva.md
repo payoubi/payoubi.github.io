@@ -5,7 +5,7 @@ excerpt: ''
 date: 2019-12-01
 venue: 'Accepted in Soil Dynamic and Earthquake Engineering'
 ---
-We use strong motion records of the Mw 7.1 19 September 2017 mainshock
+<div style="text-align: justify"> We use strong motion records of the Mw 7.1 19 September 2017 mainshock
 and one- and two-dimensional (1D and 2D) simulations at six stations along
 a linear array across Mexico City, to shed light to the site amplification and
 ground motion variability observed during the mainshock. The 2017 PueblaMexico City earthquake occurred at the edge of the flat slab segment of the
@@ -31,8 +31,8 @@ concave shape of the basin-rock interface via spectral deamplification, albeit
 not as strongly as is evidenced by the observations. One-dimensional site
 response on the other hand cannot capture the larger scale features below
 0.2 Hz, which were likely relevant to the performance of lifelines and other
-infrastructure networks.
-
+infrastructure networks.</div>
+<br/>
 Recommended citation: Asimaki, D., Mohammadi, K., **Ayoubi, P**., Mayoral, J., & Montalva, G. (2019). &quot;Investigating the Spatial Variability of Ground Motions During the 2017 Mw 7.1 Puebla-Mexico City Earthquake via Idealized Simulations of Basin Effects.&quot; <i>Accepted in Soil Dynamic and Earthquake Engineering.</i>
-
+<br/>
 Note: This article is not published yet. Please come back later. 

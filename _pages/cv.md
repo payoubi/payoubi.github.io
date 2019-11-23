@@ -25,21 +25,21 @@ Publications
 Skills
 ======
 * Modeling and Analysis
-  * OpenSees (level of proficiency: Superior)
-  * FLAC2D (level of proficiency: Advanced)
-  * SPECFEM3D (level of proficiency: Superior)
-  * SPEED (level of proficiency: Superior)
-  * SeismoV-LAB (level of proficiency: Superior)
+  * OpenSees (level of proficiency: Advanced)
+  * FLAC2D (level of proficiency: Intermediate)
+  * SPECFEM3D (level of proficiency: Advanced)
+  * SPEED (level of proficiency: Advanced)
+  * SeismoV-LAB (level of proficiency: Advanced)
 
 * Coding
-  * Python (level of proficiency: Superior)
-  * MATLAB (level of proficiency: Superior)
+  * Python (level of proficiency: Advanced)
+  * MATLAB (level of proficiency: Advanced)
   * C++ (level of proficiency: Intermediate)
   * FORTRAN (level of proficiency: Intermediate)
 * Additional Tools
   * Autocad (level of proficiency: Intermediate)
-  * Latex (level of proficiency: Superior)
-  * Jupyter (level of proficiency: Superior)
+  * Latex (level of proficiency: Advanced)
+  * Jupyter (level of proficiency: Advanced)
 
 Talks and Poster Presentations
 ======

@@ -26,7 +26,7 @@ Skills
 ======
 * Modeling and Analysis
   * OpenSees (level of proficiency: Advanced)
-  * FLAC (level of proficiency: Advanced)
+  * FLAC (level of proficiency: Intermediate)
   * SPECFEM3D (level of proficiency: Advanced)
   * SPEED (level of proficiency: Advanced)
   * SeismoV-LAB (level of proficiency: Advanced)

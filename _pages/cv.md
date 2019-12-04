@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Civil Engineering, California Institute of Technology, 2020 (expected)
+* Ph.D. in Civil Engineering, minor in Applied Mathematics, California Institute of Technology, 2020 (expected)
 * M.S. in Applied Mechanics, California Institute of Technology, 2017
 * M.S. in Geotechnical Engineering, Sharif University of Technology, 2014
 * B.S. in Civil Engineering, Guilan University, 2012
@@ -25,21 +25,21 @@ Publications
 Skills
 ======
 * Modeling and Analysis
-  * OpenSees (level of proficiency: Advanced)
-  * FLAC (level of proficiency: Intermediate)
-  * SPECFEM3D (level of proficiency: Advanced)
-  * SPEED (level of proficiency: Advanced)
-  * SeismoV-LAB (level of proficiency: Advanced)
+  * OpenSees 
+  * FLAC 
+  * SPECFEM3D 
+  * SPEED
+  * SeismoV-LAB 
 
 * Coding
-  * Python (level of proficiency: Advanced)
-  * MATLAB (level of proficiency: Advanced)
-  * C++ (level of proficiency: Intermediate)
-  * FORTRAN (level of proficiency: Intermediate)
+  * Python 
+  * MATLAB
+  * C++ 
+  * FORTRAN
 * Additional Tools
-  * Autocad (level of proficiency: Intermediate)
-  * Latex (level of proficiency: Advanced)
-  * Jupyter (level of proficiency: Advanced)
+  * Autocad 
+  * Latex 
+  * Jupyter 
 
 Talks and Poster Presentations
 ======

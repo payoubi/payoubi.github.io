@@ -24,6 +24,12 @@ Publications
   
 Skills
 ======
+
+* Machine Learning
+  * PyTorch 
+  * Keras
+  * Jupyter 
+
 * Modeling and Analysis
   * OpenSees 
   * FLAC 
@@ -36,10 +42,10 @@ Skills
   * MATLAB
   * C++ 
   * FORTRAN
+
 * Additional Tools
   * Autocad 
   * Latex 
-  * Jupyter 
 
 Talks and Poster Presentations
 ======

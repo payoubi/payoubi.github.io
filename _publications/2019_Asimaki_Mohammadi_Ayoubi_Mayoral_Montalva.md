@@ -3,7 +3,7 @@ title: "Investigating the Spatial Variability of Ground Motions During the 2017 
 collection: publications
 excerpt: ''
 date: 2019-12-01
-venue: 'Accepted in Soil Dynamic and Earthquake Engineering'
+venue: 'Soil Dynamic and Earthquake Engineering'
 ---
 <div style="text-align: justify"> We use strong motion records of the Mw 7.1 19 September 2017 mainshock
 and one- and two-dimensional (1D and 2D) simulations at six stations along
@@ -33,7 +33,9 @@ response on the other hand cannot capture the larger scale features below
 0.2 Hz, which were likely relevant to the performance of lifelines and other
 infrastructure networks.</div>
 <br/>
-Recommended citation: Asimaki, D., Mohammadi, K., **Ayoubi, P**., Mayoral, J., & Montalva, G. (2019). &quot;Investigating the Spatial Variability of Ground Motions During the 2017 Mw 7.1 Puebla-Mexico City Earthquake via Idealized Simulations of Basin Effects.&quot; <i>Accepted in Soil Dynamic and Earthquake Engineering.</i>
+[Access to paper here](https://www.sciencedirect.com/science/article/pii/S0267726118310376)
+
+
+Recommended citation: Asimaki, D., Mohammadi, K., **Ayoubi, P**., Mayoral, J., & Montalva, G. (2019). &quot;Investigating the Spatial Variability of Ground Motions During the 2017 Mw 7.1 Puebla-Mexico City Earthquake via Idealized Simulations of Basin Effects.&quot; <i>Soil Dynamic and Earthquake Engineering. 132.</i>
 <br/>
 
-Note: This article is accepted but not published yet. Please check later. 

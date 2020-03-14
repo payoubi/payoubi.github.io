@@ -3,7 +3,7 @@ title: "Investigation of Liquefaction-Induced Lateral Spreading of Gently Slopin
 collection: publications
 excerpt: ''
 date: 2019-01-01
-venue: 'Under review in International Journal of Numerical and Analytical Methods in Geomechanics'
+venue: 'Accepted for publication International Journal of Numerical and Analytical Methods in Geomechanics'
 ---
 <div style="text-align: justify"> Lateral spreading is a common earthquake-induced phenomenon that usually takes place during
 the liquefaction of sand layers on a gently sloped ground. This has had catastrophic effects in

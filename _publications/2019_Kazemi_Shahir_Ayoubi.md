@@ -3,7 +3,7 @@ title: "Simple Equations for Estimating Bearing Capacity of Shallow Foundations 
 collection: publications
 excerpt: ''
 date: 2019-12-01
-venue: 'Under review in Journal of Earthquake Engineering'
+venue: 'Accepted for publication in Journal of Earthquake Engineering'
 ---
 <div style="text-align: justify"> Assessment of bearing capacity of shallow foundations is an important task in engineering practice
 especially when the foundation is located at the top of a liquefiable soil. In this paper, simple

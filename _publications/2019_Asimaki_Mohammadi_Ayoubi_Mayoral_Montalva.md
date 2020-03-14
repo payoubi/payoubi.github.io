@@ -2,7 +2,7 @@
 title: "Investigating the Spatial Variability of Ground Motions During the 2017 Mw 7.1 Puebla-Mexico City Earthquake via Idealized Simulations of Basin Effects"
 collection: publications
 excerpt: ''
-date: 2019-12-01
+date: 2020-05-01
 venue: 'Soil Dynamic and Earthquake Engineering'
 ---
 <div style="text-align: justify"> We use strong motion records of the Mw 7.1 19 September 2017 mainshock
@@ -36,6 +36,6 @@ infrastructure networks.</div>
 [Access to paper here](https://www.sciencedirect.com/science/article/pii/S0267726118310376)
 
 
-Recommended citation: Asimaki, D., Mohammadi, K., **Ayoubi, P**., Mayoral, J., & Montalva, G. (2019). &quot;Investigating the Spatial Variability of Ground Motions During the 2017 Mw 7.1 Puebla-Mexico City Earthquake via Idealized Simulations of Basin Effects.&quot; <i>Soil Dynamic and Earthquake Engineering. 132.</i>
+Recommended citation: Asimaki, D., Mohammadi, K., **Ayoubi, P**., Mayoral, J., & Montalva, G. (2020). &quot;Investigating the Spatial Variability of Ground Motions During the 2017 Mw 7.1 Puebla-Mexico City Earthquake via Idealized Simulations of Basin Effects.&quot; <i>Soil Dynamic and Earthquake Engineering. 132.</i>
 <br/>
 

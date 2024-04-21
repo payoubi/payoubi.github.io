@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website! My name is [Peyman](files/peyman_fa.mp3) and I am a Ph.D. Candidate in Mechanical and Civil Engineering Department at [California Institute of Technology](https://www.caltech.edu) ([Caltech](https://www.caltech.edu)) working under the supervision of [Prof. Domniki Asimaki](https://www.asimaki.caltech.edu/). I am a big soccer fan. In addition to that, I work on earthquake physics from engineering and seismological point of view. Please check other tabs to find out more about my research background. 
+Welcome to my personal website! My name is [Peyman](files/peyman_fa.mp3) and I am currently an Applied Scientist at [Amazon](https://www.amazon.com) ([Amazon](https://www.amazon.com)). Prior to that I worked as Quantitative Modelere at [JPMC](https://www.jpmorganchase.com) ([JPMC](https://www.jpmorganchase.com)). Before that, I did my Ph.D. at [Caltech](https://www.caltech.edu) ([Caltech](https://www.caltech.edu)). I am a big soccer fan. 
